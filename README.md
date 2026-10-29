@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Preview-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Seer Free Installer** — Seer is a Windows Quick Look alternative that provides instant file preview by pressing Space — previewing images, video, audio, PDFs, documents, and code files without opening them. Works without internet access, no account required. Full offline installation.
+**💻 Seer Free Installer** — Seer is a lightweight quick-look file previewer for Windows, inspired by macOS Quick Look. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Seer
 
-Seer is a Windows Quick Look alternative that provides instant file preview by pressing Space — previewing images, video, audio, PDFs, documents, and code files without opening them. Inspired by macOS Quick Look, it fills a gap in the Windows experience.
+Seer is a lightweight quick-look file previewer for Windows, inspired by macOS Quick Look. Press Space on any file to instantly preview it without opening the full application. Supports hundreds of file types including images, videos, documents, code files, and archives. Seer dramatically speeds up file browsing workflows by eliminating the need to open applications for quick file inspections.
 
 ---
 
 ## ❌ Problem: Seer is hard to access
 
-- **Windows Only** — Not needed on macOS which has Quick Look built in
-- **Paid License** — Requires purchase after trial
-- **Plugin Quality** — Preview quality for some file types depends on installed plugins
-- **Windows Updates** — Major Windows updates occasionally require Seer updates for compatibility
+- **Windows Only** — No macOS or Linux version
+- **Plugin Dependency** — Some file types require additional plugin installation
+- **Commercial License** — Advanced features require paid license
+- **Large File Performance** — Very large files may cause slow preview rendering
 
 ---
 
@@ -121,7 +121,7 @@ Seer is a Windows Quick Look alternative that provides instant file preview by p
 
 ---
 
-**Seer Free Installer** — Seer is a Windows Quick Look alternative that provides instant file preview by pressing Space — previewing images, video, audio, PDFs, documents, and code files without opening them. Install without internet connection today!
+**Seer Free Installer** — Seer is a lightweight quick-look file previewer for Windows, inspired by macOS Quick Look. Install without internet connection today!
 
 <div align="center">
 
